@@ -1,5 +1,6 @@
+// Intentionally fake and nonfunctional credential for HackForge testing.
 const config = {
-  apiKey: process.env.HACKFORGE_CREDENTIAL
+  apiKey: "fake-testonly-api-key-00000000"
 };
 
 module.exports = { config };
